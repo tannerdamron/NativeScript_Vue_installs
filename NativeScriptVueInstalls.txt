@@ -8,6 +8,8 @@ npm install -g @vue/cli @vue/cli-init
 
 vue init nativescript-vue/vue-cli-template <PROJECTNAME>
 
-<IN PROJECT REPO> tns setup
+<IN PROJECT REPO> - npm i 
+                    tns setup
+
 
 npm i axios (for API calls)
