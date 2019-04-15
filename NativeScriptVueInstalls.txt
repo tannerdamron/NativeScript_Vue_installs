@@ -1,7 +1,5 @@
 npm install -g nativescript
 
-npm install -g @vue/cli
-
 vue ui
 
 npm install -g @vue/cli @vue/cli-init
