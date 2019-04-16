@@ -10,6 +10,7 @@ vue init nativescript-vue/vue-cli-template <PROJECTNAME>
 
 <IN PROJECT REPO> - npm i 
                     tns setup
+                    tns preview --bundle (to make QR code)
 
 
 npm i axios (for API calls)
